@@ -3,7 +3,7 @@
 var path = require('canonical-path');
 var pkg = require(path.join(__dirname, 'package.json'));
 
-var convert = require('./convert');
+var convert = require('./lib/convert');
 
 var program = require('commander');
 
