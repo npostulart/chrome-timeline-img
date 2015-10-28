@@ -1,0 +1,23 @@
+{
+  "name": "chrome-timeline-img",
+  "version": "0.1.0",
+  "description": "Chrome Timeline JSON to PNG",
+  "author": "Niklas Postulart <n.postulart@gmail.com>",
+  "keywords": [
+    "chrome",
+    "image",
+    "timeline"
+  ],
+  "main": "chrome-timeline-img.js",
+  "dependencies": {
+    "canonical-path": "0.0.2",
+    "commander": "^2.9.0",
+    "lodash": "^3.10.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/npostulart/chrome-timeline-to-png"
+  },
+  "license": "MIT",
+  "devDependencies": {}
+}
