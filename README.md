@@ -4,6 +4,17 @@ Chrome can create snapshots in the timeline that are sometimes useful for presen
 
 With this tool you can export the timeline JSON file to your hard drive and extract those images easily.
 
+
+## Installation
+
+Install the package globally with
+
+```
+npm install -g chrome-timeline-img
+```
+
+## Usage
+
 Just start it with
 
 ```
@@ -52,6 +63,13 @@ TimelineRawData-20151028T131921
 -- snaps_1534.png
 ```
 
+## ToDo
+
+- [ ] optimize `mkdirP` function
+- [ ] remove console.log from lib files
+- [ ] create files async (promises)
+
+## License
 
 The MIT License (MIT)
 
