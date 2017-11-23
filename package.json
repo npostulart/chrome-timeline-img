@@ -1,6 +1,6 @@
 {
   "name": "chrome-timeline-img",
-  "version": "0.1.4",
+  "version": "0.2.0",
   "description": "Chrome Timeline JSON to PNG",
   "author": "Niklas Postulart <n.postulart@gmail.com>",
   "keywords": [
